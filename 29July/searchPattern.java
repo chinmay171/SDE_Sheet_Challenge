@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+public class searchPattern {
     private static final int d = 256;
     private static final int q = 101;
 
